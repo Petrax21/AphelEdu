@@ -7,3 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_subdirectory(01-hello-world)
 add_subdirectory(02-cin)
+add_subdirectory(03-calculation)
+add_subdirectory(04-note)
+add_subdirectory(05-functions)

@@ -5,8 +5,8 @@ int main()
 
     std::cout << "Adınız nedir? : ";
 
-    std::string name;
 
+    std::string name;
     std::cin >> name;
 
     std::cout << "Merhaba " << name << std::endl;

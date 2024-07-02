@@ -7,9 +7,9 @@ int main() {
     char cinsiyet = 'E';
     short yas = 30;
     int maas = 5000;
-    long uzunluk = 175;
-    double agirlik = 70.5;
+    long long uzunluk = 175;
     float ortalama = 85.5;
+    double agirlik = 70.5;
     bool evliMi = true;
 
     cout << "İsim: " << isim << endl;

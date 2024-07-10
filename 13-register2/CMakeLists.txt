@@ -1,0 +1,1 @@
+add_executable(register2 main.cpp)

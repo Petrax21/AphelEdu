@@ -1,16 +1,13 @@
 #include <iostream>
 #include <filesystem>
 #include <fstream>
-#include <sstream>
 
 int main() {
     std::string folderPath = "/home/mustafa/Downloads/abc/test12";
     if (!std::filesystem::exists(folderPath)) {
         std::filesystem::create_directory(folderPath);
-    } else {
-        std::filesystem::remove_all(folderPath);
-        std::filesystem::create_directory(folderPath);
     }
+
 
     std::string filePath = folderPath + "/mustafa.txt";
     std::ofstream file(filePath);
@@ -34,3 +31,4 @@ int main() {
 
     return 0;
 }
+

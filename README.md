@@ -12,7 +12,7 @@
 
 [Google](https://www.google.com)
 
-[![Video Başlığı](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Video Başlığı](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YwUD7nuN3LE)
 
 
 Tablolar oluşturmak için aşağıdaki yapıyı kullanabilirsiniz:
